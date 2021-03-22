@@ -4,6 +4,8 @@
 
 Informer Voter was built with React 17.0.1.
 
+// This was one of the earlier React apps that I built.
+
 ## Installation and Setup Instructions
 
 Installation:
