@@ -1,6 +1,6 @@
 # Informed Voter
 
-[Informed Voter](https://informedvoter-ef786.web.app) is a web app that interacts with the Google Civic Information API and the ProPublic Congress API to provide the user with a variety of relevant civic information. The user can query a list of their national, state, and local represenatives, view Senate and House members lists, view recent bills, recent votes, and view voting information specific to their address.
+[Informed Voter](https://informedvoter-ef786.web.app) is a web app that interacts with the Google Civic Information API and the ProPublic Congress API to provide the user with a variety of relevant civic information. The user can query a list of their national, state, and local representatives, view Senate and House members lists, view recent bills, recent votes, and view voting information specific to their address.
 
 Informed Voter was built with React 17.0.1.
 
